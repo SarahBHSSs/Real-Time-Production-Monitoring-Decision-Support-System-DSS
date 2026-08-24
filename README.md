@@ -9,7 +9,7 @@ A wire/terminal-crimping production line generates two very different kinds of d
 ## Architecture
 
 ```
-┌────────────────────┐        ┌───────────────────────────┐
+┌─────────────────────┐        ┌──────────────────────────┐
 │   Oracle ERP DB     │       │  Machine log files        │
 │ (order requirements)│       │  (.SDC / .LDC,per machine)│
 └──────────┬──────────┘       └──────────────┬────────────┘
